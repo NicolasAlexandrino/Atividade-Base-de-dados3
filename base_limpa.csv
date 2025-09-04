@@ -1,0 +1,502 @@
+ID,Nome,Idade,Cidade,Produto,Preço,Quantidade,Data_Compra
+1,Mariana,48.0,Fortaleza,Tablet,2010.87,7,2024-05-30
+2,Bruno,42.0,Rio De Janeiro,Teclado,3120.137864693446,6,2025-04-12
+3,Ana,54.0,Rio De Janeiro,Monitor,3619.29,2,2022-12-10
+4,Carlos,62.0,Curitiba,Teclado,40415.9,8,2022-12-31
+5,Mariana,60.0,Curitiba,Notebook,716.66,8,2023-09-14
+6,Mariana,18.0,Salvador,Headset,2388.44,8,2024-02-23
+7,Ana,61.0,Porto Alegre,Headset,2363.09,4,2025-02-28
+8,João,21.0,São Paulo,Monitor,2080.54,10,2024-01-01
+9,Carlos,65.0,Curitiba,Tablet,4229.63,3,2023-12-26
+10,Maria,36.0,Manaus,Notebook,3101.25,7,2024-05-18
+11,Fernanda,32.0,Belo Horizonte,Headset,1515.12,1,2023-11-21
+12,Maria,40.0,Curitiba,Mouse,4096.38,4,2023-07-24
+13,Ana,30.0,Fortaleza,Monitor,3120.137864693446,1,2023-11-16
+14,Lucas,61.0,Manaus,Smartphone,3120.137864693446,3,2023-03-14
+15,Carlos,67.0,Fortaleza,Tablet,971.26,10,2024-01-29
+16,Julia,26.0,São Paulo,Smartphone,4495.69,10,2024-06-09
+17,Pedro,58.0,Rio De Janeiro,Tablet,837.51,3,2024-03-10
+18,Fernanda,37.0,Fortaleza,Mouse,4901.19,3,2023-11-12
+19,Julia,20.0,São Paulo,Notebook,4933.74,9,2023-11-13
+20,Julia,64.0,Fortaleza,Monitor,3670.27,1,2024-02-29
+21,Carlos,36.0,Salvador,Teclado,3441.36,10,2024-10-15
+22,Lucas,44.0,Manaus,Teclado,2453.9,3,2023-02-10
+23,Carlos,26.0,Porto Alegre,Notebook,3120.137864693446,1,2024-09-07
+24,Lucas,41.0,Salvador,Smartphone,4884.79,3,2024-04-22
+25,João,35.0,Rio De Janeiro,Teclado,2993.51,5,2024-02-23
+26,Fernanda,34.0,Manaus,Monitor,2930.56,3,2025-01-08
+27,Ana,48.0,Belo Horizonte,Notebook,1838.3,9,2023-05-27
+28,Bruno,36.0,Salvador,Notebook,2268.06,7,2025-05-29
+29,Ana,39.0,Manaus,Mouse,2709.27,10,2024-06-02
+30,Julia,47.0,São Paulo,Mouse,3120.137864693446,10,2024-10-17
+31,Pedro,27.0,Salvador,Notebook,3120.137864693446,1,2024-08-19
+32,João,32.0,Manaus,Smartphone,4207.54,5,2024-07-02
+33,Ana,64.0,Curitiba,Notebook,2661.48,2,2024-12-05
+34,Ana,43.0,Manaus,Headset,1431.29,4,2025-03-22
+35,Pedro,69.0,Curitiba,Tablet,4896.76,8,2024-10-22
+36,Pedro,23.0,Fortaleza,Headset,1019.79,10,2025-08-18
+37,Ana,18.0,Salvador,Smartphone,2619.25,8,2025-08-28
+38,Mariana,25.0,Fortaleza,Smartphone,1692.52,8,2024-03-11
+39,Maria,61.0,Salvador,Mouse,2243.87,3,2023-05-17
+40,Pedro,34.0,Fortaleza,Notebook,2216.5,4,2023-07-14
+41,Maria,70.0,Salvador,Monitor,700.78,7,2023-04-13
+42,Fernanda,41.0,Manaus,Mouse,1685.3,10,2025-04-11
+43,João,32.0,Curitiba,Teclado,3039.11,3,2024-09-10
+44,Mariana,57.0,Fortaleza,Teclado,3634.12,10,2024-11-08
+45,Pedro,53.0,Porto Alegre,Teclado,3506.64,3,2024-05-05
+46,Fernanda,57.0,Porto Alegre,Headset,2362.94,10,2024-02-28
+47,Lucas,22.0,Belo Horizonte,Smartphone,1523.81,9,2025-08-20
+48,Julia,47.0,Fortaleza,Tablet,3120.137864693446,5,2023-09-24
+49,Maria,37.0,Rio De Janeiro,Smartphone,2851.62,3,2023-01-27
+50,Mariana,25.0,Manaus,Headset,3591.81,6,2024-04-12
+51,Mariana,20.0,Manaus,Teclado,3077.21,8,2023-01-02
+52,João,49.0,Fortaleza,Tablet,1844.83,10,2023-07-17
+53,Maria,33.0,Fortaleza,Tablet,4342.73,10,2024-04-27
+54,Lucas,26.0,Salvador,Mouse,3120.137864693446,2,2024-10-26
+55,João,41.0,Salvador,Notebook,2825.68,4,2025-08-19
+56,Mariana,65.0,São Paulo,Monitor,4922.4,7,2023-07-06
+57,Ana,52.0,Curitiba,Tablet,4771.65,7,2024-06-14
+58,Lucas,65.0,Rio De Janeiro,Notebook,4770.78,3,2023-06-03
+59,Mariana,44.0,Belo Horizonte,Monitor,1453.51,2,2024-11-02
+60,Carlos,49.0,Belo Horizonte,Teclado,692.04,1,2023-12-26
+61,Carlos,35.0,Manaus,Notebook,3574.06,4,2025-01-04
+62,Pedro,44.0,Salvador,Smartphone,4201.54,9,2023-06-05
+63,João,46.0,Fortaleza,Smartphone,3177.71,9,2025-08-21
+64,Mariana,33.0,São Paulo,Mouse,3771.96,7,2024-02-14
+65,Pedro,24.0,Rio De Janeiro,Monitor,891.62,3,2024-08-11
+66,João,41.0,Salvador,Notebook,2984.24,10,2025-02-16
+67,Lucas,59.0,São Paulo,Headset,2838.6,2,2024-07-03
+68,Mariana,43.0,Belo Horizonte,Notebook,555.64,3,2023-03-09
+69,João,25.0,Belo Horizonte,Headset,3144.09,8,2024-02-01
+70,Mariana,70.0,São Paulo,Mouse,1006.33,10,2024-06-07
+71,Ana,60.0,Porto Alegre,Tablet,3049.67,10,2024-07-20
+72,Julia,58.0,Belo Horizonte,Mouse,4841.74,1,2024-12-16
+73,Bruno,19.0,Fortaleza,Mouse,975.36,9,2025-03-14
+74,Carlos,39.0,São Paulo,Tablet,4035.86,9,2023-08-27
+75,Julia,26.0,Rio De Janeiro,Tablet,4460.61,2,2023-08-05
+76,João,31.0,Curitiba,Notebook,1688.61,2,2023-11-06
+77,Bruno,66.0,Manaus,Monitor,3074.1,8,2024-07-25
+78,Julia,55.0,Belo Horizonte,Headset,1274.9,3,2023-05-03
+79,Ana,32.0,Manaus,Notebook,3282.1,10,2024-08-06
+80,Carlos,27.0,Rio De Janeiro,Tablet,2307.74,9,2025-01-15
+81,Fernanda,56.0,Manaus,Smartphone,4455.31,1,2024-12-02
+82,João,44.0,Belo Horizonte,Tablet,721.81,7,2025-06-08
+83,Carlos,27.0,Curitiba,Monitor,1708.63,9,2024-06-22
+84,Julia,52.0,Salvador,Mouse,2020.4,7,2023-11-27
+85,Fernanda,29.0,Porto Alegre,Tablet,1899.27,6,2024-12-26
+86,Maria,19.0,Curitiba,Teclado,4362.06,1,2024-03-17
+87,Carlos,40.0,Rio De Janeiro,Monitor,4876.23,9,2023-07-08
+88,Maria,33.0,Belo Horizonte,Smartphone,1852.16,7,2023-06-01
+89,Bruno,19.0,Salvador,Headset,3983.14,4,2023-02-09
+90,Lucas,21.0,Porto Alegre,Tablet,3779.6,8,2023-12-10
+91,Mariana,44.0,Fortaleza,Monitor,901.79,7,2023-05-25
+92,Bruno,65.0,Fortaleza,Headset,4610.45,6,2023-09-18
+93,Fernanda,46.0,São Paulo,Mouse,2680.07,10,2023-09-27
+94,Fernanda,50.0,Curitiba,Mouse,2182.6,10,2024-11-23
+95,Carlos,46.0,São Paulo,Smartphone,3120.137864693446,2,2024-11-10
+96,Mariana,57.0,Manaus,Teclado,795.28,7,2023-11-03
+97,Lucas,44.0,Porto Alegre,Monitor,2315.23,3,2023-07-30
+98,Julia,60.0,Fortaleza,Mouse,2859.29,5,2024-03-02
+99,Pedro,47.0,Fortaleza,Mouse,1281.82,8,2023-05-23
+100,João,19.0,Salvador,Smartphone,1403.27,4,2024-11-26
+101,Lucas,48.0,Belo Horizonte,Smartphone,3120.137864693446,2,2024-07-02
+102,Fernanda,45.0,Manaus,Notebook,3120.137864693446,5,2025-02-17
+103,Pedro,49.0,Curitiba,Headset,3120.137864693446,10,2023-04-08
+104,Fernanda,46.0,Manaus,Notebook,1395.99,9,2025-06-19
+105,Mariana,23.0,Salvador,Smartphone,2588.98,7,2025-02-23
+106,Mariana,27.0,Rio De Janeiro,Monitor,4653.83,5,2025-04-11
+107,Carlos,35.0,Curitiba,Tablet,1588.72,4,2024-11-05
+108,Julia,55.0,Rio De Janeiro,Teclado,2507.47,1,2025-05-07
+109,Ana,38.0,Salvador,Mouse,2635.62,1,2023-11-15
+110,Fernanda,56.0,Belo Horizonte,Teclado,2049.12,10,2024-05-19
+111,Julia,47.0,Manaus,Notebook,1663.97,9,2023-12-05
+112,Maria,45.0,Salvador,Tablet,906.76,2,2024-05-22
+113,Fernanda,62.0,Manaus,Notebook,3120.137864693446,9,2024-11-23
+114,Pedro,59.0,Manaus,Mouse,3120.137864693446,1,2023-09-11
+115,Julia,67.0,Manaus,Teclado,4009.24,7,2023-11-30
+116,Lucas,31.0,Porto Alegre,Headset,1496.08,4,2024-04-12
+117,Julia,32.0,São Paulo,Mouse,1430.29,6,2025-02-17
+118,Lucas,70.0,Fortaleza,Teclado,2809.77,7,2024-10-04
+119,Mariana,44.0,Porto Alegre,Teclado,4852.12,6,2025-08-09
+120,Lucas,38.0,São Paulo,Tablet,2633.44,2,2025-03-26
+121,Bruno,60.0,Rio De Janeiro,Notebook,1279.4,3,2025-07-09
+122,Ana,27.0,Curitiba,Smartphone,1506.97,7,2022-12-10
+123,Bruno,48.0,São Paulo,Monitor,4743.52,10,2024-02-28
+124,Pedro,23.0,Rio De Janeiro,Smartphone,3692.16,5,2025-08-06
+125,João,24.0,Manaus,Headset,4529.67,5,2025-02-19
+126,Pedro,41.0,Porto Alegre,Headset,2565.49,9,2022-12-07
+127,Carlos,53.0,Belo Horizonte,Notebook,1859.65,7,2025-05-16
+128,Fernanda,53.0,Porto Alegre,Smartphone,3306.23,10,2024-11-13
+129,Bruno,60.0,Porto Alegre,Teclado,533.06,6,2024-11-26
+130,Pedro,40.0,Porto Alegre,Tablet,4849.18,10,2025-04-22
+131,Fernanda,66.0,Belo Horizonte,Notebook,3026.56,5,2023-08-27
+132,Fernanda,64.0,Curitiba,Notebook,1772.05,7,2024-06-06
+133,Fernanda,36.0,Porto Alegre,Smartphone,2667.82,4,2023-08-15
+134,Ana,40.0,Salvador,Mouse,1744.17,7,2025-08-20
+135,João,50.0,São Paulo,Monitor,1745.98,9,2025-01-02
+136,Lucas,60.0,Manaus,Headset,4784.85,9,2025-05-28
+137,Pedro,24.0,Porto Alegre,Teclado,1347.62,8,2025-03-27
+138,Carlos,53.0,Salvador,Tablet,1581.36,3,2025-08-13
+139,Pedro,66.0,Curitiba,Headset,3120.137864693446,6,2024-04-10
+140,Lucas,32.0,Salvador,Teclado,4145.13,9,2025-01-18
+141,Mariana,53.0,Rio De Janeiro,Notebook,1938.14,9,2024-09-12
+142,Julia,70.0,Porto Alegre,Monitor,614.55,8,2024-06-24
+143,Fernanda,61.0,São Paulo,Notebook,1830.22,5,2024-10-13
+144,Bruno,19.0,Rio De Janeiro,Monitor,2320.7,5,2023-06-16
+145,Bruno,60.0,São Paulo,Smartphone,3123.61,10,2023-06-02
+146,Julia,35.0,São Paulo,Teclado,4172.07,6,2024-04-05
+147,Carlos,44.0,São Paulo,Mouse,3710.16,7,2024-08-13
+148,Bruno,66.0,Salvador,Headset,3372.41,3,2024-05-11
+149,Julia,39.0,São Paulo,Notebook,4733.01,2,2023-09-15
+150,Julia,29.0,Fortaleza,Monitor,1850.88,4,2023-06-10
+151,Fernanda,54.0,Curitiba,Monitor,3459.27,8,2025-07-27
+152,Lucas,22.0,Curitiba,Notebook,1822.03,3,2024-09-24
+153,Lucas,58.0,Belo Horizonte,Headset,3834.14,2,2025-06-07
+154,Lucas,23.0,Salvador,Teclado,30156.4,4,2023-04-18
+155,Pedro,31.0,Fortaleza,Smartphone,47611.6,9,2023-07-22
+156,João,47.0,Belo Horizonte,Smartphone,3444.96,7,2022-12-28
+157,Pedro,41.0,Porto Alegre,Tablet,1504.98,6,2025-04-01
+158,Julia,38.0,São Paulo,Tablet,2392.13,9,2025-07-02
+159,João,54.0,Porto Alegre,Mouse,2172.57,10,2024-11-29
+160,Bruno,21.0,Curitiba,Tablet,2586.92,1,2023-06-26
+161,Maria,66.0,Porto Alegre,Mouse,741.55,3,2024-07-23
+162,Pedro,61.0,Porto Alegre,Headset,3111.41,7,2025-06-16
+163,Pedro,46.0,Manaus,Teclado,2624.99,1,2024-02-19
+164,Fernanda,49.0,Salvador,Mouse,1039.17,2,2024-05-04
+165,Lucas,44.0,Belo Horizonte,Teclado,2884.27,3,2025-02-24
+166,Mariana,66.0,São Paulo,Tablet,4418.82,8,2025-02-13
+167,Bruno,40.0,Porto Alegre,Tablet,4965.57,10,2023-02-23
+168,Mariana,36.0,Belo Horizonte,Headset,4942.36,7,2023-04-20
+169,Lucas,55.0,Fortaleza,Tablet,4939.92,2,2024-12-15
+170,João,60.0,Rio De Janeiro,Smartphone,4380.77,2,2023-05-15
+171,Pedro,32.0,Curitiba,Notebook,863.65,5,2024-08-03
+172,Lucas,56.0,Salvador,Smartphone,4939.88,4,2023-05-03
+173,Pedro,31.0,Porto Alegre,Smartphone,761.06,6,2025-08-16
+174,Julia,31.0,São Paulo,Mouse,1442.22,2,2025-04-26
+175,Maria,66.0,Salvador,Mouse,3093.26,10,2022-12-05
+176,Lucas,38.0,Salvador,Monitor,4033.45,1,2023-07-04
+177,Ana,49.0,Curitiba,Notebook,1082.33,7,2023-08-28
+178,Bruno,29.0,São Paulo,Smartphone,2432.34,7,2024-12-17
+179,Maria,52.0,Salvador,Notebook,2648.3,10,2024-07-30
+180,Lucas,50.0,Rio De Janeiro,Smartphone,3120.137864693446,9,2023-07-01
+181,Ana,60.0,Manaus,Headset,3787.97,5,2022-12-04
+182,Ana,22.0,Salvador,Headset,4514.03,10,2024-06-01
+183,Bruno,65.0,Salvador,Tablet,2889.65,1,2024-12-18
+184,Lucas,44.0,Fortaleza,Headset,3120.137864693446,3,2023-08-04
+185,Maria,44.0,Curitiba,Notebook,3120.137864693446,8,2025-07-25
+186,Fernanda,38.0,Curitiba,Monitor,1518.2,8,2025-02-06
+187,João,54.0,Manaus,Tablet,1904.42,1,2024-05-14
+188,Ana,58.0,Manaus,Mouse,2765.01,4,2023-08-07
+189,Mariana,25.0,Curitiba,Smartphone,793.79,9,2023-07-01
+190,Lucas,38.0,Curitiba,Headset,3120.137864693446,5,2025-05-24
+191,Fernanda,57.0,São Paulo,Tablet,2551.67,4,2024-03-13
+192,Fernanda,62.0,Salvador,Headset,2858.53,1,2023-10-17
+193,Fernanda,23.0,São Paulo,Tablet,3590.51,10,2025-01-27
+194,Julia,24.0,Porto Alegre,Mouse,4982.63,9,2024-05-01
+195,Maria,55.0,Salvador,Notebook,3875.52,9,2024-07-26
+196,Ana,23.0,Porto Alegre,Notebook,4581.02,4,2023-10-01
+197,Lucas,37.0,Salvador,Smartphone,586.06,10,2022-12-18
+198,Fernanda,32.0,Curitiba,Mouse,4931.96,3,2024-10-13
+199,João,28.0,Manaus,Teclado,598.61,1,2023-01-13
+200,João,58.0,Manaus,Tablet,1054.23,6,2024-10-02
+201,Carlos,50.0,Curitiba,Mouse,4064.57,4,2025-03-19
+202,Fernanda,67.0,Manaus,Teclado,3381.44,1,2023-11-23
+203,João,64.0,São Paulo,Teclado,3304.11,3,2023-08-14
+204,Mariana,59.0,Rio De Janeiro,Monitor,715.82,2,2025-07-16
+205,Ana,33.0,São Paulo,Notebook,4262.54,5,2023-07-28
+206,Maria,34.0,Porto Alegre,Smartphone,3120.137864693446,7,2023-01-12
+207,Maria,56.0,Salvador,Mouse,2499.41,6,2024-02-13
+208,Mariana,66.0,Belo Horizonte,Mouse,1637.32,7,2024-03-13
+209,Lucas,29.0,Manaus,Tablet,1424.73,7,2025-04-25
+210,João,58.0,Manaus,Smartphone,541.87,10,2024-12-12
+211,Pedro,66.0,São Paulo,Notebook,954.41,4,2024-04-23
+212,João,55.0,Porto Alegre,Teclado,3302.59,9,2023-11-14
+213,Bruno,54.0,Fortaleza,Smartphone,2384.72,1,2024-10-27
+214,Carlos,57.0,Fortaleza,Tablet,2802.13,2,2025-02-06
+215,Mariana,58.0,Porto Alegre,Headset,1772.18,2,2024-08-24
+216,Mariana,46.0,Belo Horizonte,Monitor,2739.83,9,2023-03-04
+217,Mariana,46.0,Rio De Janeiro,Notebook,4000.82,5,2025-07-06
+218,Pedro,68.0,Salvador,Teclado,4879.04,9,2023-03-28
+219,Bruno,21.0,Fortaleza,Tablet,2343.9,10,2023-10-16
+220,Carlos,22.0,Fortaleza,Tablet,2966.62,6,2025-01-17
+221,Fernanda,46.0,Rio De Janeiro,Mouse,3596.92,6,2022-12-06
+222,Fernanda,44.0,Porto Alegre,Smartphone,1555.27,5,2025-05-05
+223,Lucas,36.0,Salvador,Notebook,3120.137864693446,4,2024-12-30
+224,Mariana,23.0,Salvador,Headset,996.94,10,2023-11-19
+225,Carlos,50.0,Rio De Janeiro,Mouse,2723.47,4,2024-06-10
+226,Lucas,55.0,São Paulo,Headset,4007.87,8,2024-09-30
+227,Mariana,68.0,Porto Alegre,Monitor,3756.09,7,2025-08-13
+228,Mariana,20.0,Manaus,Teclado,3399.52,10,2025-03-10
+229,Ana,69.0,São Paulo,Monitor,4897.81,1,2023-06-07
+230,Mariana,30.0,Rio De Janeiro,Smartphone,725.36,5,2024-11-19
+231,João,48.0,Porto Alegre,Notebook,4433.63,3,2024-01-08
+232,Pedro,21.0,Curitiba,Headset,2120.97,7,2025-04-28
+233,Pedro,69.0,Rio De Janeiro,Notebook,2416.98,9,2024-07-19
+234,Lucas,39.0,São Paulo,Mouse,4330.61,2,2023-06-12
+235,João,23.0,Manaus,Mouse,543.53,9,2024-12-23
+236,Maria,29.0,Rio De Janeiro,Smartphone,3412.39,2,2025-08-19
+237,Pedro,44.0,Fortaleza,Notebook,4525.37,9,2022-12-10
+238,Maria,46.0,São Paulo,Notebook,1707.39,5,2025-07-16
+239,Bruno,57.0,Curitiba,Notebook,2176.8,6,2024-01-11
+240,João,41.0,Salvador,Mouse,1012.24,2,2023-06-18
+241,Maria,42.0,Porto Alegre,Mouse,2554.42,9,2023-09-21
+242,Ana,39.0,Fortaleza,Smartphone,3604.56,5,2024-04-29
+243,Carlos,21.0,Salvador,Smartphone,2397.83,9,2023-09-24
+244,Fernanda,59.0,Porto Alegre,Smartphone,1250.5,10,2023-12-27
+245,Mariana,39.0,Curitiba,Mouse,3768.85,5,2025-03-23
+246,Fernanda,61.0,Belo Horizonte,Headset,4299.57,8,2024-08-13
+247,Lucas,34.0,Rio De Janeiro,Tablet,4600.52,7,2023-07-01
+248,Ana,60.0,Curitiba,Teclado,3060.25,10,2025-05-29
+249,Pedro,56.0,Porto Alegre,Teclado,3250.95,8,2024-12-17
+250,Lucas,39.0,Rio De Janeiro,Teclado,3251.11,4,2025-03-20
+251,Lucas,60.0,Porto Alegre,Notebook,4459.78,6,2024-04-04
+252,Fernanda,40.0,Curitiba,Monitor,4512.93,8,2025-05-27
+253,João,59.0,Fortaleza,Monitor,2696.55,8,2023-09-26
+254,Pedro,43.0,Manaus,Tablet,2483.1,10,2023-12-04
+255,Lucas,63.0,Curitiba,Mouse,3120.137864693446,1,2024-09-16
+256,Mariana,37.0,Porto Alegre,Notebook,555.62,8,2023-01-18
+257,Pedro,59.0,Porto Alegre,Notebook,2861.68,2,2022-12-10
+258,Carlos,70.0,Fortaleza,Notebook,3756.98,5,2023-07-13
+259,João,62.0,Rio De Janeiro,Smartphone,4800.93,2,2023-11-27
+260,Bruno,65.0,Belo Horizonte,Teclado,2835.95,7,2025-06-28
+261,Pedro,51.0,Belo Horizonte,Headset,3282.08,4,2025-06-28
+262,Maria,60.0,Curitiba,Mouse,3769.93,4,2024-08-29
+263,Lucas,41.0,Rio De Janeiro,Smartphone,3486.7,6,2023-11-07
+264,Maria,44.0,Fortaleza,Notebook,1168.95,7,2025-03-24
+265,João,31.0,Fortaleza,Mouse,4514.28,6,2023-09-10
+266,Ana,67.0,Rio De Janeiro,Mouse,552.4,9,2024-02-26
+267,Maria,32.0,Manaus,Mouse,2775.05,9,2023-06-10
+268,Lucas,27.0,Porto Alegre,Tablet,2731.26,1,2025-05-11
+269,Mariana,68.0,Rio De Janeiro,Notebook,3881.44,5,2025-04-22
+270,Mariana,67.0,Rio De Janeiro,Notebook,1989.03,4,2024-04-16
+271,Lucas,65.0,Curitiba,Headset,2781.18,5,2025-01-02
+272,Fernanda,20.0,São Paulo,Notebook,2203.87,2,2024-10-08
+273,João,67.0,Porto Alegre,Smartphone,854.74,7,2024-02-04
+274,Fernanda,56.0,Salvador,Monitor,3078.66,6,2023-06-13
+275,Lucas,28.0,Belo Horizonte,Headset,2743.05,2,2023-11-07
+276,Carlos,62.0,Belo Horizonte,Mouse,4913.02,9,2023-07-16
+277,Lucas,69.0,Fortaleza,Teclado,579.96,3,2024-09-07
+278,Bruno,64.0,Belo Horizonte,Headset,661.24,8,2023-05-27
+279,Bruno,44.0,Porto Alegre,Headset,4216.59,6,2023-02-27
+280,Fernanda,64.0,Fortaleza,Notebook,4834.27,6,2024-06-05
+281,Fernanda,46.0,Rio De Janeiro,Headset,4505.5,4,2023-08-09
+282,João,66.0,Salvador,Teclado,3445.68,10,2025-02-12
+283,Mariana,46.0,Manaus,Headset,2033.84,5,2025-08-07
+284,Ana,33.0,Salvador,Smartphone,4174.65,3,2023-09-23
+285,Carlos,69.0,Belo Horizonte,Tablet,1993.88,4,2024-08-07
+286,Julia,30.0,Porto Alegre,Smartphone,3199.78,8,2024-08-27
+287,Mariana,54.0,Porto Alegre,Smartphone,2134.83,4,2023-08-18
+288,Lucas,47.0,Curitiba,Tablet,938.47,4,2025-04-13
+289,Ana,67.0,Porto Alegre,Tablet,509.89,4,2024-12-15
+290,João,51.0,Belo Horizonte,Headset,3351.48,5,2023-02-20
+291,Pedro,28.0,Salvador,Smartphone,2964.61,4,2025-07-19
+292,Mariana,69.0,Belo Horizonte,Notebook,978.45,4,2024-04-19
+293,Mariana,34.0,Curitiba,Monitor,2715.9,4,2023-09-05
+294,Ana,48.0,Manaus,Monitor,3841.3,4,2024-06-06
+295,Lucas,53.0,Salvador,Monitor,1644.3,10,2024-02-03
+296,Mariana,63.0,Fortaleza,Smartphone,1043.36,6,2024-10-31
+297,Ana,25.0,Porto Alegre,Teclado,1470.15,3,2024-02-20
+298,Maria,66.0,Salvador,Tablet,1357.6,2,2023-09-15
+299,Fernanda,46.0,Belo Horizonte,Headset,3907.17,2,2024-04-14
+300,Bruno,27.0,São Paulo,Headset,3120.137864693446,2,2025-02-15
+301,Fernanda,23.0,Manaus,Monitor,3524.64,8,2024-01-26
+302,Lucas,32.0,Salvador,Headset,4512.89,10,2025-02-18
+303,Maria,40.0,Fortaleza,Notebook,3151.92,1,2024-02-19
+304,Mariana,44.0,Rio De Janeiro,Notebook,4837.35,9,2024-09-06
+305,Carlos,50.0,Porto Alegre,Tablet,3120.137864693446,1,2024-10-01
+306,Fernanda,42.0,Belo Horizonte,Headset,2989.52,8,2023-08-10
+307,João,41.0,Salvador,Smartphone,3133.04,6,2024-05-06
+308,Fernanda,38.0,Belo Horizonte,Headset,4014.87,10,2024-11-20
+309,Julia,63.0,Porto Alegre,Smartphone,3613.18,6,2023-03-24
+310,Carlos,68.0,Manaus,Teclado,4168.6,8,2023-04-30
+311,Julia,20.0,Porto Alegre,Mouse,3458.85,10,2023-12-24
+312,Julia,48.0,Curitiba,Monitor,1948.3,5,2023-02-04
+313,João,26.0,Rio De Janeiro,Smartphone,2383.99,8,2023-03-31
+314,Maria,48.0,Salvador,Teclado,3616.32,3,2024-02-08
+315,Julia,18.0,Curitiba,Mouse,2290.41,9,2025-03-17
+316,Carlos,19.0,São Paulo,Monitor,1823.78,5,2025-06-19
+317,Fernanda,27.0,Porto Alegre,Mouse,1121.81,7,2024-03-03
+318,Lucas,64.0,Curitiba,Notebook,4488.97,4,2025-03-23
+319,Carlos,45.0,Porto Alegre,Headset,4293.83,10,2024-05-25
+320,Bruno,36.0,Rio De Janeiro,Mouse,1912.6,3,2024-10-30
+321,Ana,25.0,Salvador,Teclado,2991.12,1,2023-05-12
+322,Fernanda,44.0,Porto Alegre,Tablet,1443.71,9,2024-12-02
+323,João,68.0,Belo Horizonte,Headset,3589.75,7,2024-02-21
+324,Julia,22.0,São Paulo,Monitor,1097.02,8,2024-08-18
+325,Lucas,49.0,Fortaleza,Mouse,4888.31,9,2024-05-21
+326,Julia,19.0,Rio De Janeiro,Headset,2941.21,1,2025-08-28
+327,João,54.0,Belo Horizonte,Tablet,3696.59,9,2023-06-26
+328,Carlos,27.0,Curitiba,Monitor,3030.26,6,2023-11-14
+329,Bruno,18.0,Salvador,Monitor,4742.03,7,2024-03-28
+330,Ana,33.0,Curitiba,Tablet,3534.1,3,2024-08-05
+331,Bruno,29.0,Manaus,Headset,2902.56,8,2023-08-08
+332,Fernanda,23.0,Manaus,Tablet,2400.74,2,2025-02-20
+333,Carlos,41.0,Fortaleza,Smartphone,3120.137864693446,9,2023-03-08
+334,Ana,51.0,Rio De Janeiro,Notebook,2213.92,8,2025-08-09
+335,Pedro,68.0,Curitiba,Tablet,3120.137864693446,6,2023-12-03
+336,Bruno,53.0,Belo Horizonte,Monitor,3120.137864693446,1,2023-04-04
+337,Julia,44.0,Salvador,Smartphone,4034.89,1,2024-08-21
+338,Mariana,20.0,Belo Horizonte,Notebook,3575.26,4,2023-06-26
+339,Fernanda,41.0,Porto Alegre,Mouse,779.15,7,2023-12-02
+340,Fernanda,19.0,Salvador,Mouse,1418.0,10,2024-12-27
+341,Ana,22.0,Belo Horizonte,Tablet,2114.07,2,2024-10-04
+342,Pedro,64.0,Porto Alegre,Notebook,3272.49,6,2023-08-21
+343,Lucas,24.0,Salvador,Mouse,3028.48,6,2025-06-25
+344,Bruno,65.0,Porto Alegre,Headset,3412.04,10,2023-10-24
+345,Maria,26.0,Salvador,Monitor,2799.15,5,2022-12-12
+346,Lucas,44.0,Rio De Janeiro,Tablet,3632.58,3,2024-02-24
+347,Fernanda,70.0,Belo Horizonte,Mouse,711.41,9,2023-05-13
+348,Fernanda,67.0,Salvador,Monitor,2374.55,5,2024-07-28
+349,João,62.0,Fortaleza,Smartphone,3583.17,4,2025-02-15
+350,Ana,29.0,Manaus,Smartphone,742.11,5,2024-03-10
+351,Mariana,22.0,Curitiba,Notebook,1413.89,8,2023-09-29
+352,Pedro,47.0,Porto Alegre,Smartphone,4372.0,10,2024-04-06
+353,Maria,44.0,Curitiba,Teclado,1514.97,6,2023-07-06
+354,Lucas,68.0,Manaus,Smartphone,3692.95,6,2024-02-11
+355,Bruno,20.0,Fortaleza,Tablet,3147.73,3,2025-03-24
+356,Ana,37.0,Rio De Janeiro,Monitor,1384.11,8,2023-12-10
+357,Bruno,70.0,Curitiba,Mouse,1370.74,7,2024-11-12
+358,Carlos,34.0,Fortaleza,Mouse,4925.54,4,2024-10-02
+359,João,44.0,Curitiba,Teclado,4831.14,7,2024-07-05
+360,Pedro,36.0,Porto Alegre,Notebook,1037.09,6,2023-11-11
+361,João,67.0,Belo Horizonte,Mouse,3120.137864693446,6,2024-10-03
+362,Fernanda,44.0,Porto Alegre,Smartphone,1689.08,7,2025-05-07
+363,João,35.0,Belo Horizonte,Monitor,4307.06,5,2025-05-22
+364,Maria,41.0,Manaus,Mouse,3120.137864693446,8,2024-03-11
+365,Fernanda,43.0,Belo Horizonte,Mouse,4718.73,3,2023-10-24
+366,Lucas,42.0,Manaus,Headset,3120.137864693446,10,2025-06-21
+367,Bruno,29.0,Curitiba,Tablet,3185.96,3,2025-07-15
+368,Lucas,49.0,Manaus,Mouse,3314.15,10,2023-04-26
+369,Carlos,69.0,Porto Alegre,Mouse,1855.2,4,2023-01-11
+370,Fernanda,69.0,Manaus,Smartphone,2975.72,2,2025-04-18
+371,Fernanda,45.0,Manaus,Smartphone,3684.57,5,2025-02-27
+372,Pedro,56.0,Manaus,Smartphone,4806.44,4,2023-03-18
+373,Fernanda,29.0,Rio De Janeiro,Monitor,4038.16,9,2025-07-27
+374,Bruno,38.0,Salvador,Tablet,2943.86,7,2025-02-03
+375,Maria,38.0,Fortaleza,Mouse,2072.31,7,2025-05-11
+376,Carlos,37.0,Fortaleza,Teclado,3485.01,4,2024-04-18
+377,Pedro,63.0,Manaus,Teclado,1821.08,3,2025-02-13
+378,Mariana,62.0,Manaus,Tablet,3282.26,3,2025-05-19
+379,Bruno,46.0,Rio De Janeiro,Monitor,3026.01,8,2025-07-27
+380,Maria,44.0,Fortaleza,Notebook,3421.85,1,2024-01-22
+381,João,40.0,Curitiba,Teclado,2057.03,3,2023-11-10
+382,Lucas,45.0,São Paulo,Teclado,3390.19,7,2023-04-25
+383,Carlos,68.0,Manaus,Tablet,1597.22,8,2024-07-27
+384,Julia,22.0,Porto Alegre,Monitor,3120.137864693446,3,2023-10-25
+385,Bruno,43.0,Salvador,Monitor,2216.18,9,2024-04-14
+386,Lucas,69.0,São Paulo,Smartphone,1010.18,9,2024-03-08
+387,Ana,28.0,Curitiba,Monitor,3757.89,6,2023-11-29
+388,Lucas,27.0,Rio De Janeiro,Smartphone,3120.137864693446,8,2023-09-10
+389,Lucas,61.0,Rio De Janeiro,Mouse,3967.22,5,2024-01-02
+390,Mariana,20.0,Salvador,Mouse,2789.31,5,2024-12-09
+391,Mariana,33.0,Curitiba,Headset,1833.95,9,2025-07-09
+392,Fernanda,41.0,Porto Alegre,Monitor,1941.41,10,2024-08-18
+393,Maria,54.0,Belo Horizonte,Tablet,931.8,1,2025-01-14
+394,Fernanda,44.0,Salvador,Smartphone,3979.93,7,2023-12-17
+395,Bruno,46.0,Curitiba,Headset,3321.2,2,2023-08-24
+396,Fernanda,41.0,Belo Horizonte,Notebook,3332.82,3,2025-06-17
+397,Julia,22.0,Fortaleza,Notebook,3584.32,1,2025-08-15
+398,Julia,51.0,Fortaleza,Notebook,1425.11,4,2023-01-19
+399,Bruno,38.0,Rio De Janeiro,Smartphone,4453.87,5,2023-01-28
+400,Bruno,33.0,Porto Alegre,Monitor,2458.57,8,2025-01-27
+401,Carlos,19.0,Fortaleza,Smartphone,824.54,2,2023-10-27
+402,Fernanda,49.0,Belo Horizonte,Notebook,606.89,8,2024-04-12
+403,Julia,53.0,Belo Horizonte,Monitor,670.49,6,2023-01-21
+404,Pedro,67.0,Curitiba,Headset,1300.96,5,2023-03-01
+405,Pedro,46.0,Porto Alegre,Notebook,816.99,6,2023-04-29
+406,Mariana,57.0,Fortaleza,Tablet,4599.44,6,2025-06-08
+407,Carlos,49.0,Porto Alegre,Monitor,2530.07,9,2024-05-06
+408,Pedro,26.0,Rio De Janeiro,Smartphone,1923.82,9,2023-05-31
+409,Carlos,46.0,Fortaleza,Mouse,1032.38,5,2023-11-13
+410,Ana,63.0,Curitiba,Smartphone,3120.137864693446,6,2025-06-27
+411,Julia,23.0,Manaus,Tablet,784.57,1,2024-08-24
+412,Fernanda,38.0,São Paulo,Teclado,704.83,7,2024-02-04
+413,Carlos,63.0,Rio De Janeiro,Smartphone,2109.65,2,2023-07-29
+414,Carlos,52.0,Manaus,Mouse,1804.26,6,2023-01-11
+415,Maria,37.0,Curitiba,Mouse,3229.55,10,2023-03-01
+416,Fernanda,63.0,Porto Alegre,Mouse,4670.11,4,2024-06-29
+417,Ana,62.0,Porto Alegre,Tablet,4199.55,10,2023-05-10
+418,Maria,68.0,Manaus,Notebook,3120.137864693446,10,2024-08-16
+419,Bruno,32.0,Fortaleza,Notebook,1489.4,9,2023-06-07
+420,Mariana,30.0,Belo Horizonte,Smartphone,4085.47,3,2023-09-03
+421,Julia,33.0,Manaus,Monitor,1827.4,5,2025-06-30
+422,João,19.0,São Paulo,Teclado,1841.25,6,2023-05-08
+423,Fernanda,54.0,Manaus,Smartphone,4844.14,6,2023-12-06
+424,João,69.0,Belo Horizonte,Mouse,3415.73,9,2024-11-29
+425,Bruno,26.0,São Paulo,Notebook,550.18,8,2024-03-05
+426,Fernanda,23.0,Porto Alegre,Mouse,1136.18,8,2025-07-18
+427,Ana,43.0,Belo Horizonte,Monitor,3120.137864693446,2,2023-08-08
+428,Maria,64.0,Fortaleza,Mouse,2273.37,7,2025-06-17
+429,Carlos,44.0,Fortaleza,Tablet,883.07,10,2023-04-27
+430,Maria,70.0,Curitiba,Notebook,3836.44,5,2024-10-21
+431,João,26.0,Curitiba,Tablet,1452.82,8,2025-06-10
+432,Fernanda,59.0,Belo Horizonte,Teclado,4331.56,3,2023-01-04
+433,Lucas,47.0,Fortaleza,Teclado,1327.97,3,2025-01-19
+434,Julia,40.0,Salvador,Headset,1637.34,6,2022-12-19
+435,Mariana,67.0,Rio De Janeiro,Monitor,3519.4,7,2024-03-15
+436,Carlos,55.0,São Paulo,Notebook,744.75,10,2025-05-21
+437,João,26.0,Rio De Janeiro,Tablet,4955.34,10,2025-05-17
+438,Julia,21.0,Salvador,Tablet,3401.04,7,2023-08-17
+439,Bruno,51.0,Manaus,Tablet,3522.58,2,2025-01-04
+440,Carlos,28.0,Curitiba,Smartphone,1388.38,2,2024-03-02
+441,Julia,63.0,Porto Alegre,Smartphone,4781.93,3,2024-07-30
+442,Fernanda,51.0,Manaus,Teclado,3520.83,6,2025-02-15
+443,Bruno,23.0,Porto Alegre,Headset,1783.12,4,2025-02-12
+444,Ana,58.0,Rio De Janeiro,Mouse,3120.137864693446,6,2024-03-08
+445,Mariana,35.0,Curitiba,Teclado,2686.38,6,2023-10-26
+446,João,37.0,Belo Horizonte,Headset,3467.4,5,2024-12-17
+447,Pedro,23.0,Belo Horizonte,Teclado,1185.78,5,2024-01-23
+448,Lucas,28.0,Belo Horizonte,Tablet,4134.65,10,2023-11-27
+449,Pedro,55.0,São Paulo,Smartphone,1258.88,7,2023-01-01
+450,João,60.0,Belo Horizonte,Teclado,4035.47,5,2025-02-26
+451,Carlos,56.0,Salvador,Monitor,3383.77,8,2024-02-04
+452,João,54.0,Belo Horizonte,Teclado,2117.69,6,2023-07-23
+453,João,44.0,Manaus,Monitor,1992.03,10,2024-02-04
+454,Fernanda,23.0,Rio De Janeiro,Mouse,2504.11,9,2024-06-29
+455,Maria,44.0,Belo Horizonte,Tablet,2691.37,8,2023-07-26
+456,Lucas,54.0,Porto Alegre,Smartphone,34049.8,7,2025-05-12
+457,Ana,31.0,Porto Alegre,Teclado,1762.77,3,2023-07-06
+458,Ana,44.0,Belo Horizonte,Monitor,4510.84,3,2023-11-14
+459,Julia,19.0,Rio De Janeiro,Mouse,3800.95,1,2024-01-16
+460,Ana,58.0,Fortaleza,Smartphone,3773.41,3,2024-08-27
+461,Lucas,59.0,São Paulo,Headset,4323.14,4,2023-10-08
+462,Julia,48.0,Fortaleza,Tablet,4156.89,5,2024-05-16
+463,Julia,69.0,Salvador,Teclado,3961.4,2,2023-09-09
+464,Carlos,37.0,Fortaleza,Teclado,664.95,4,2023-10-17
+465,Maria,62.0,Salvador,Tablet,4522.94,3,2024-06-17
+466,Pedro,46.0,Rio De Janeiro,Smartphone,3442.59,7,2023-03-08
+467,Bruno,47.0,Rio De Janeiro,Smartphone,2266.24,2,2025-05-14
+468,Carlos,56.0,São Paulo,Teclado,3153.2,2,2025-03-11
+469,Mariana,63.0,Curitiba,Notebook,1102.47,2,2023-06-09
+470,Maria,40.0,Porto Alegre,Teclado,907.49,8,2025-02-25
+471,Maria,26.0,Belo Horizonte,Monitor,547.66,9,2024-02-12
+472,Maria,50.0,Rio De Janeiro,Headset,4838.0,1,2024-07-13
+473,João,38.0,Rio De Janeiro,Mouse,3578.73,1,2024-03-30
+474,Mariana,25.0,Salvador,Mouse,1131.67,7,2024-09-17
+475,Carlos,33.0,São Paulo,Monitor,3048.61,9,2023-10-25
+476,Mariana,21.0,Porto Alegre,Notebook,4424.88,2,2025-03-20
+477,Pedro,42.0,Porto Alegre,Smartphone,3794.02,2,2024-02-29
+478,Fernanda,44.0,Porto Alegre,Monitor,681.89,5,2023-12-23
+479,Mariana,28.0,Belo Horizonte,Tablet,1542.87,10,2024-06-01
+480,Maria,54.0,Fortaleza,Mouse,1553.08,3,2023-01-16
+481,Pedro,30.0,Salvador,Monitor,2830.48,2,2024-09-02
+482,Fernanda,49.0,Belo Horizonte,Smartphone,2246.42,7,2023-02-16
+483,Lucas,47.0,Porto Alegre,Teclado,4466.98,5,2024-10-10
+484,Fernanda,37.0,Rio De Janeiro,Monitor,3120.137864693446,4,2024-02-12
+485,Lucas,23.0,Porto Alegre,Notebook,964.51,4,2024-09-30
+486,Ana,50.0,Salvador,Headset,3351.05,5,2023-04-16
+487,Fernanda,33.0,Rio De Janeiro,Smartphone,3838.59,8,2024-08-13
+488,Lucas,40.0,Rio De Janeiro,Tablet,3065.72,3,2024-07-02
+489,Bruno,44.0,São Paulo,Teclado,2203.33,3,2023-07-08
+490,Maria,56.0,Belo Horizonte,Notebook,4542.02,9,2023-11-19
+491,João,59.0,Belo Horizonte,Smartphone,1632.14,3,2024-06-14
+492,Fernanda,36.0,Belo Horizonte,Tablet,1503.05,1,2023-05-06
+493,Julia,24.0,Curitiba,Tablet,4177.57,1,2023-08-16
+494,Mariana,34.0,Fortaleza,Smartphone,4066.96,6,2024-10-01
+495,Lucas,66.0,Belo Horizonte,Teclado,529.69,6,2023-12-14
+496,Carlos,20.0,Fortaleza,Notebook,2479.54,8,2024-12-25
+497,Lucas,54.0,Rio De Janeiro,Mouse,2815.44,8,2024-01-30
+498,Fernanda,41.0,São Paulo,Teclado,1176.08,9,2024-02-17
+499,Lucas,22.0,Porto Alegre,Teclado,3209.09,5,2025-01-21
+500,Pedro,46.0,Rio De Janeiro,Teclado,3474.99,9,2024-08-09
+69,João,25.0,Belo Horizonte,Headset,31440.9,8,2024-02-01
